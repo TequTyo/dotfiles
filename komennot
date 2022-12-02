@@ -1,0 +1,4 @@
+# Guake load/save configurations
+guake --restore-preferences ~/myguakeprefs 
+guake --save-preferences ~/myguakeprefs
+
