@@ -23,8 +23,8 @@ set showcmd
 set novisualbell
 set wildmode=longest,list,full
 set splitright splitbelow
-set fileformat=unix                                                             
-set encoding=utf-8                                                              
+set fileformat=unix
+set encoding=utf-8
 set fileencoding=utf-8
 set colorcolumn=110
 set background=dark
